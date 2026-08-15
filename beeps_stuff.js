@@ -1,3 +1,4 @@
+// This is a script for Infinite Chef https://r74n.com/cook/
 // Thanks to tecnomansad2005-xo on GitHub for addShape function!
 const customImageCache = Object.create(null);
 const originalLoadImage = window.loadImage;
