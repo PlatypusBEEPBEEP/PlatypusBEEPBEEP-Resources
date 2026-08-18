@@ -1,4 +1,11 @@
-// This is a script for Infinite Chef https://r74n.com/cook/
+/* 
+
+This is a script for Infinite Chef
+https://r74n.com/cook/
+https://github.com/R74nCom/InfiniteChef-Mods
+
+*/
+
 // Thanks to tecnomansad2005-xo on GitHub for addShape function!
 const customImageCache = Object.create(null);
 const originalLoadImage = window.loadImage;
